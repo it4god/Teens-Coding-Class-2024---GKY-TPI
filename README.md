@@ -1,3 +1,6 @@
+
+![Uploading CODING CLASS.jpg…]()
+
 Selamat Datang di Coding Class Remaja 2024 GKY Tanjung Pinang
 
 Untuk memulai kelas ini terlebih dahulu dipersiapkan Download beberapa software di Laptop teman-teman :
