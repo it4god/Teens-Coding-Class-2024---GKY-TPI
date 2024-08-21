@@ -1,0 +1,100 @@
+DAY 1 of Python :
+
+Perkenalan, Tujuan visi misi, dan juga sharing apa yang kita bisa buat dengan programming
+1. Print("Hello World !") -> output to terminal
+2. Input 
+3. Variable
+4. String "", concatenation, upper(), lower(), capitalize() 
+5. Number ( int, float )
+6. Type
+7. Boolean
+8. Firstname, Lastname, Fullname print
+9. if username and password
+
+Homework : baca2 PDF mengenai Code dan juga Cheatsheet yang pendek nya
+
+Day 2 of Python :
+
+1. If else
+https://viewer.diagrams.net/?target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Rollercoaster%201#R1VfbcpswEP0apk%2FJAAJfHmM7aR%2FSjlt3ps2jYm1ArUCukC%2Fk67sywqDgJM7Eub0w6Ggl7Z49uwKPjLPNZ0UX6VfJQHihzzYemXhhOIhCfBqgrICIkApIFGcVFDTAjN%2BCBX2LLjmDwjHUUgrNFy44l3kOc%2B1gVCm5ds1upHBPXdAEOsBsTkUX%2FcWZTm1YYb%2FBvwBP0vrkoDesZjJaG9tIipQyuW5B5NwjYyWlrt6yzRiE4a7mpVp3cc%2FszjEFuT5kwTQf3Pz8rmYwjVc%2FVmxzyf%2FJExtGocs6YGAYvx1KpVOZyJyK8wYdKbnMGZhdfRw1NpdSLhAMEPwDWpc2mXSpJUKpzoSdRYdV%2BdusP%2B2RsAauEDjxT%2F1%2BXCOTjT2jGpXt0RQUz0CDsmAVh3H%2BXnosVMilmsMDnNQyoyoB%2FYBdvEsiih8keqNKXKdAUM1Xrh%2FUyjDZ2dmlZ0rRsmWwkDzXRWvnqQHQwBYUIbagbD0FcdzOOr5UO9ajlmsNtFXGE1QyfGOVREHUVon%2FQQQSHUMgHQUEkSuAoe%2FuULllFzXKeKrQer3X15nlYkXF0rJje6tpbT2aoXBGid4m0w%2Bw52ceuehIU6Uyu15ilKN1yjXMFnSbzDVeT67A7GGgNGwe1kQ3h%2FWCoO%2ByVF9b6%2BauCHoWS1v3xN2ktdPe4vjpFJK3KNUj1lZ4YG3dk5eDa%2BtZJIcdnc7QYd2V4o7Y4HE53nAhxlJItV1LWAwDZtpeoZX8C62ZQXhNsDqPI2DiCjjco99wj36jl9Jv1KF2TPNPpgPg5yE8j%2BEj8EV8l6499T7ovyJd8T663gtZYb%2F%2Fvtiqz2%2FR9U12aMKAtcsFFTzJ8X2OgZsPipGhheNPwpmdyDhjVSuFgt%2FS6%2B1WppnaWxb3jUdePDF7YfcsqkZ6JJoHd%2B4gMuywTPaUcPhiLHev8SsoPjzN%2BC%2F7KM%2FRcXjGYfNfWH1cNT%2FX5Pw%2F#{%22pageId%22%3A%22xxSgcG7K4NA4Phw-Iz3D%22}
+2. Scope
+3. Comparation operator
+4. Age range
+5. Nested If
+https://viewer.diagrams.net/?target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Rollercoaster%202#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1XaUDMIKOxCUzJbsuZevgHZmgKr7rICbI%26export%3Ddownload#%7B%22pageId%22%3A%22bzYDor7Mf7Ch-uxfBpj_%22%7D
+
+Home Work : GPA score
+
+Day 3 of Python :
+
+1. List
+2. Append, Sort, Remove
+3. Import Library Random
+4. Rock Paper Scissor
+5. While Loop
+6. n = n + 1
+
+Home work : Number Games 
+
+Day 4 of Python :
+
+Bahas Number Games
+
+1. Function Def ( explanation Def )
+2. Calculator
+3. Modulo
+4. Odd and Even
+5. Register Vjudge
+6. Def for TTS
+
+Home Work : Exercise Vjudge
+
+Day 5 of Python :
+
+1. For Loop / For in range / While Loop
+2. Print Even Number
+3. Print Odd Number
+4. Loop the List
+
+Projek : Max, Min, Average
+Home Work : Max, Min, Average
+
+Day 6 of Python :
+
+1. Nested For Loop
+2. Print Rectangle
+3. Print Multiplication Table
+
+Exercises :  vjudge.net 
+Home Work : vjudge.net
+
+Day 7 of Python :
+
+1. String Split and List
+2. Bible Protector KJV
+3. Text Processing
+4. Print Book, Chapter and Verse and Text
+
+Day 8 of Python :
+
+1. Bible Assistant prototype
+2. Dictionary
+3. Print Text of Bible according to Book, Chapter and Verse
+
+Day 9 of Python :
+
+1. Jarvis and detail
+
+Day 10 of Python :
+
+1. Jarvis and Bible Assistant 
+2. Speech Recognition
+
+Day 11 of Python :
+
+1. WA BroadCast
+
+Day 12 of Python :
+
+1. Tkinter and WA BroadCast
+
