@@ -1,5 +1,4 @@
 
-![Uploading CODING CLASS.jpg…]()
 
 Selamat Datang di Coding Class Remaja 2024 GKY Tanjung Pinang
 
