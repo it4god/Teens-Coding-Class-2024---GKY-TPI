@@ -27,18 +27,16 @@ Home Work : GPA score
 
 Day 3 of Python :
 
-1. List
-2. Append, Sort, Remove
-3. Import Library Random
-4. Rock Paper Scissor
-5. While Loop
-6. n = n + 1
-
-Home work : Number Games 
+1. Gunting Baru Kertas dengan scoring system diperiksa
+2. Number Games
+3. List
+4. Append, Sort, Remove
+6. Number Game yang lebih advanced
 
 Day 4 of Python :
 
-Bahas Number Games
+1. Computer Number Games
+2. Gunakan List untuk Computer Number Games yang lebih advanced
 
 1. Function Def ( explanation Def )
 2. Calculator
@@ -57,7 +55,7 @@ Day 5 of Python :
 4. Loop the List
 
 Projek : Max, Min, Average
-Home Work : Max, Min, Average
+Home Work : Max, Min, Average dengan loop 
 
 Day 6 of Python :
 
